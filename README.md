@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate with people that are working in this industry. 
 - ⚡ Fun fact: I managed to have a normal conversation for 1 hour in a language that I didn't know. 
 - 💬 My 2021 goals: 
-1. Get hired as a React Developer.
-2. Contribute more to Open Source projects.
-3. Create at least 5 React apps that others could find useful. 
+ 
+1. Contribute more to Open Source projects.
+2. Create at least 5 React apps that others could find useful. 
 
 
 
